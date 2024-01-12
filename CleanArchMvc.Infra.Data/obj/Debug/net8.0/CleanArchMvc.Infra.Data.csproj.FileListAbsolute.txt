@@ -1,0 +1,17 @@
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.deps.json
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Data.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll

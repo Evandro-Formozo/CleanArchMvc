@@ -1,0 +1,11 @@
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.deps.json
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfo.cs
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\refint\CleanArchMvc.Domain.dll
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.pdb
+D:\Usuários\Evandro\curso_CleanArch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\ref\CleanArchMvc.Domain.dll
